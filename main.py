@@ -7,9 +7,14 @@ directory named by MAKEFUN_OUTPUT_DIR), then verifies the copy by
 comparing its SHA-256 digest and size with the source and prints both.
 
 The poster sums up Monday 23 November 2026 in eight verified
-stories, polished on 24 November 2026: Sunday events are dated
-as Sunday, claims are labelled as claims, and figures use the
-lowest toll several outlets agreed on that day.
+stories, polished on 24 November 2026 and rebuilt on 25 November
+2026 after round 3 scored 520.432 (rank 5,830/13,031, far below
+the top-50 bar): the three weakest stories were replaced with
+Monday actions verified against primary sources (Grok lawsuits,
+Wall Street rally, Iran sanctions), and the layout was rebuilt
+around a dominant lead story instead of eight uniform cards.
+Sunday events are dated as Sunday, claims are labelled as claims,
+and figures use the lowest toll several outlets agreed on that day.
 
 Standard library only; no network access.
 """

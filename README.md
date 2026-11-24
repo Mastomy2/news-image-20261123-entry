@@ -9,35 +9,36 @@ one image summing up the world's news of Monday 23 November 2026.
 
 ## The image
 
-`image.png` (1024×1024, 148,293 bytes) is a newspaper-style poster: a navy
-masthead naming the day, then eight numbered stories in a two-by-four
-grid, each with a region tag, a headline, a two-to-three-line summary
+`image.png` (1024×1024, 150,679 bytes) is a newspaper-style poster: a navy
+masthead naming the day, a dominant full-width lead story, six
+stories in a two-by-three grid, and a full-width strip for the
+eighth story, each with a region tag, a headline, a short summary
 and its source. Every story was checked against live reporting on
 23 November 2026; claims are labelled as claims and tolls use the
 lowest figure several outlets agreed on that day.
 
-1. **COP31 collapses with no deal** — Talks collapse Sunday after record
+1. **Huang returns as Nvidia CEO** — Trump convinces the board to
+   reinstate Jensen Huang; shares jump 31%, adding a record $952
+   billion in a day (Reuters / USA Today) — lead story
+2. **COP31 collapses with no deal** — Talks collapse Sunday after record
    overtime; the EU and about 130 nations reject a text with no fossil
    fuels (CNN / Reuters)
-2. **Russian warship sinks at Benghazi** — Ukraine confirms it sank
-   corvette Merkury with seven sea drones; ten people hurt (CNN / WSJ)
-3. **Strike on flats kills at least 11** — A Russian drone hits a
-   five-storey block in Dymer, north of Kyiv; rescue ends Monday with
-   the toll final at 11. A boy, 7, is pulled alive (Reuters)
+3. **Russian warship sinks at Benghazi** — Ukraine confirms it sank
+   corvette Merkury with seven sea drones; ten hurt (CNN / WSJ)
 4. **Democrats take 258 House seats** — Ties the 1992 high of 258 seats.
    Hubbard beats Foxx by 330 votes in a North Carolina recount
    (AP / Reuters)
-5. **Houthis claim refinery attack** — Houthis say they hit Saudi
-   Arabia's Rabigh refinery on Sunday. No damage shown; Riyadh silent
-   (Reuters)
-6. **Asian markets slide on AI fears** — Tokyo closed for a holiday after
-   Friday's 5.06% Nikkei plunge; Seoul's KOSPI falls 3.3% (Reuters)
-7. **Huang returns as Nvidia CEO** — Nvidia's board unanimously
-   reinstates Jensen Huang as chief executive after talks with Trump;
-   shares jump about 30% (Reuters)
-8. **UK to host 2035 Women's World Cup** — FIFA confirms the four
-   home nations as hosts today — a first World Cup in Britain since
-   1966 (BBC / Reuters)
+5. **Two states sue SpaceX over Grok deepfakes** — Virginia and Oregon
+   sue over Grok making sexual images of real people, including
+   children (Reuters / NY Post)
+6. **Wall Street posts best day since April 2025** — Dow gains 1,448
+   points, Nasdaq jumps 6.5% and the S&P 500 rises 4.7%
+   (CNN / WSJ)
+7. **US hits Iran with sweeping new sanctions** — Treasury targets
+   over two dozen firms in Iran's shadow banking network (Reuters)
+8. **Strike on flats kills at least 11** — A Russian drone hits a
+   five-storey block in Dymer, north of Kyiv; rescue ends Monday with
+   the toll final at 11 (Reuters)
 
 ## How it works
 
